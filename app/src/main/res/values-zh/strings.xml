@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">結訓專題</string>
+
+    <string name="title_section1">選定景點</string>
+    <string name="title_section2">全部景點</string>
+    <string name="title_section3">天氣預報</string>
+
+    <string name="action_example">參考資訊</string>
+
+    <string name="action_settings">設定</string>
+</resources>
